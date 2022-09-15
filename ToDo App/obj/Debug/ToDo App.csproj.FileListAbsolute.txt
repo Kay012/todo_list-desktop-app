@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ToDo App\ToDo App\bin\Debug\ToDo App.exe.config
+C:\Users\hp\source\repos\ToDo App\ToDo App\bin\Debug\ToDo App.exe
+C:\Users\hp\source\repos\ToDo App\ToDo App\bin\Debug\ToDo App.pdb
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo App.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo_App.Form1.resources
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo_App.Properties.Resources.resources
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo App.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo App.exe
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo App.pdb
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo_App.Form2.resources
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo_App.Form3.resources
+C:\Users\hp\source\repos\ToDo App\ToDo App\obj\Debug\ToDo_App.Form4.resources
